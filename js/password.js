@@ -1,8 +1,8 @@
 function checkPassword(){
 
 let password=document.getElementById("password").value;
-
-if(password=="1234"){
+  
+if(password=="14september2025"){
 
 Swal.fire({
 
